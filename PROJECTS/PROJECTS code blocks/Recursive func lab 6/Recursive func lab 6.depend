@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700824913 source:c:\projects\recursive func lab 6\main.c
+	<stdio.h>
+	<stdlib.h>
+

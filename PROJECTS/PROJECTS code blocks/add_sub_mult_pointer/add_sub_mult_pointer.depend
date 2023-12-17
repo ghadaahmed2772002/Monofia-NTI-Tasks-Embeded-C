@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701252730 source:c:\projects\add_sub_mult_pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

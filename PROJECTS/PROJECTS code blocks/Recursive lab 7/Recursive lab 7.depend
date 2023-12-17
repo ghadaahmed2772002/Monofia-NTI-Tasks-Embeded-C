@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700824097 source:c:\projects\recursive lab 7\main.c
+	<stdio.h>
+	<stdlib.h>
+
