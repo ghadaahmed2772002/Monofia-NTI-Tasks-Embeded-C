@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701947228 source:c:\projects\struct tasks\main.c
+	<stdio.h>
+	<limits.h>
+

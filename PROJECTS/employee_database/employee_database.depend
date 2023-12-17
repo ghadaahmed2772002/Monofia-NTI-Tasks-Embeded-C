@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702536481 source:c:\projects\employee_database\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

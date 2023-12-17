@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702021273 source:c:\projects\enter_user_valid_4\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
