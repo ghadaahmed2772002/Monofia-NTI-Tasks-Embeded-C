@@ -1,0 +1,6 @@
+employee_id,i,name,s,salary,f,department_id,1
+1,i,ghada,s,200,f,1,i
+2,i,sara,s,300,f,2,i
+3,i,shahd,s,400,f,3,i
+4,i,doha,s,500,f,5,i
+5,i,jk,s,600.0,f,6,i,shrouk,s,500.0,f,5,i,
